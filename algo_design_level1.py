@@ -22,7 +22,7 @@ def square(number):
 # YOUR ANSWERS (fill in the blanks):
 # greet_student is a: ___________  because: ___________
 # square is a:        ___________  because: ___________
-
+ 
 
 # ----------------------------------------------------------
 # TASK 1B: Call them and observe the output
